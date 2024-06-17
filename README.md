@@ -20,7 +20,7 @@
 
 3. Remove Tasks: Need to declutter your list? No problem! TaskMaster allows you to remove unwanted tasks with a single click, making it easy to keep your list clean and organized.
 
-4.Data Persistence: Worried about losing your tasks? Don't be! TaskMaster utilizes localStorage to automatically save your tasks, so you can access them anytime, anywhere.
+ 4. Data Persistence: Worried about losing your tasks? Don't be! TaskMaster utilizes localStorage to automatically save your tasks, so you can access them anytime, anywhere.
 
  ### Technologies Used 
  -  **Html** :   
